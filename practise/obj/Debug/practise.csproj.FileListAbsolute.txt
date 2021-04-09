@@ -8,3 +8,7 @@ D:\repository\FutureTresh\practise\bin\Debug\practice2.dll
 D:\repository\FutureTresh\practise\bin\Debug\practice2.pdb
 D:\repository\FutureTresh\practise\obj\Debug\practise.csprojAssemblyReference.cache
 D:\repository\FutureTresh\practise\obj\Debug\practise.csproj.CopyComplete
+D:\repository\FutureTresh\practise\bin\Debug\CheckDate.dll
+D:\repository\FutureTresh\practise\bin\Debug\Newtonsoft.Json.dll
+D:\repository\FutureTresh\practise\bin\Debug\CheckDate.pdb
+D:\repository\FutureTresh\practise\bin\Debug\Newtonsoft.Json.xml

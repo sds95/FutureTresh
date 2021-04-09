@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using CheckDate;
 using practice2;
 
 namespace practise
@@ -12,6 +9,8 @@ namespace practise
         static void Main(string[] args)
         {
             Class1.Say();
+            ChechDate.CheckDate();
+
             Console.ReadKey();
         }
     }

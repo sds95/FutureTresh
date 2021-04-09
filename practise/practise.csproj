@@ -54,6 +54,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\CheckDate\CheckDate.csproj">
+      <Project>{ca7719a8-6882-4d41-aead-d5a361d7c461}</Project>
+      <Name>CheckDate</Name>
+    </ProjectReference>
     <ProjectReference Include="..\practice2\practice2.csproj">
       <Project>{f557df36-d146-4fed-88b9-f6768223ba8a}</Project>
       <Name>practice2</Name>

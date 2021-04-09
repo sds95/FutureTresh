@@ -1,0 +1,9 @@
+D:\repository\FutureTresh\CheckDate\bin\Debug\netstandard2.0\CheckDate.deps.json
+D:\repository\FutureTresh\CheckDate\bin\Debug\netstandard2.0\CheckDate.dll
+D:\repository\FutureTresh\CheckDate\bin\Debug\netstandard2.0\CheckDate.pdb
+D:\repository\FutureTresh\CheckDate\obj\Debug\netstandard2.0\CheckDate.csprojAssemblyReference.cache
+D:\repository\FutureTresh\CheckDate\obj\Debug\netstandard2.0\CheckDate.AssemblyInfoInputs.cache
+D:\repository\FutureTresh\CheckDate\obj\Debug\netstandard2.0\CheckDate.AssemblyInfo.cs
+D:\repository\FutureTresh\CheckDate\obj\Debug\netstandard2.0\CheckDate.csproj.CoreCompileInputs.cache
+D:\repository\FutureTresh\CheckDate\obj\Debug\netstandard2.0\CheckDate.dll
+D:\repository\FutureTresh\CheckDate\obj\Debug\netstandard2.0\CheckDate.pdb
