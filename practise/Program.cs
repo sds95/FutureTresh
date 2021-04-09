@@ -10,7 +10,7 @@ namespace practise
         {
             Class1.Say();
             ChechDate.CheckDate();
-
+        
             Console.ReadKey();
         }
     }
