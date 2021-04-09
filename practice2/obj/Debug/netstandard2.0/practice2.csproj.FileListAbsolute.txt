@@ -1,0 +1,9 @@
+D:\repository\FutureTresh\practice2\bin\Debug\netstandard2.0\practice2.deps.json
+D:\repository\FutureTresh\practice2\bin\Debug\netstandard2.0\practice2.dll
+D:\repository\FutureTresh\practice2\bin\Debug\netstandard2.0\practice2.pdb
+D:\repository\FutureTresh\practice2\obj\Debug\netstandard2.0\practice2.csprojAssemblyReference.cache
+D:\repository\FutureTresh\practice2\obj\Debug\netstandard2.0\practice2.AssemblyInfoInputs.cache
+D:\repository\FutureTresh\practice2\obj\Debug\netstandard2.0\practice2.AssemblyInfo.cs
+D:\repository\FutureTresh\practice2\obj\Debug\netstandard2.0\practice2.csproj.CoreCompileInputs.cache
+D:\repository\FutureTresh\practice2\obj\Debug\netstandard2.0\practice2.dll
+D:\repository\FutureTresh\practice2\obj\Debug\netstandard2.0\practice2.pdb

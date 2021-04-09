@@ -1,7 +1,10 @@
 D:\repository\FutureTresh\practise\bin\Debug\practise.exe.config
 D:\repository\FutureTresh\practise\bin\Debug\practise.exe
 D:\repository\FutureTresh\practise\bin\Debug\practise.pdb
-D:\repository\FutureTresh\practise\obj\Debug\practise.csprojAssemblyReference.cache
 D:\repository\FutureTresh\practise\obj\Debug\practise.csproj.CoreCompileInputs.cache
 D:\repository\FutureTresh\practise\obj\Debug\practise.exe
 D:\repository\FutureTresh\practise\obj\Debug\practise.pdb
+D:\repository\FutureTresh\practise\bin\Debug\practice2.dll
+D:\repository\FutureTresh\practise\bin\Debug\practice2.pdb
+D:\repository\FutureTresh\practise\obj\Debug\practise.csprojAssemblyReference.cache
+D:\repository\FutureTresh\practise\obj\Debug\practise.csproj.CopyComplete
