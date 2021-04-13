@@ -1,0 +1,6 @@
+C:\Users\SlavikusVOG\Source\Repos\C#\Practice\FutureTresh\practiceString\bin\Debug\practiceString.dll
+C:\Users\SlavikusVOG\Source\Repos\C#\Practice\FutureTresh\practiceString\bin\Debug\practiceString.pdb
+C:\Users\SlavikusVOG\Source\Repos\C#\Practice\FutureTresh\practiceString\obj\Debug\practiceString.csprojAssemblyReference.cache
+C:\Users\SlavikusVOG\Source\Repos\C#\Practice\FutureTresh\practiceString\obj\Debug\practiceString.csproj.CoreCompileInputs.cache
+C:\Users\SlavikusVOG\Source\Repos\C#\Practice\FutureTresh\practiceString\obj\Debug\practiceString.dll
+C:\Users\SlavikusVOG\Source\Repos\C#\Practice\FutureTresh\practiceString\obj\Debug\practiceString.pdb
